@@ -1,5 +1,3 @@
-# CFK_HangBall
-
 Ball-Tetris-Game
 
 소속:사이버프론트코리아
